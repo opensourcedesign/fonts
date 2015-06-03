@@ -1,0 +1,76 @@
+# This is the official list of people who can contribute
+# (and typically have contributed) to this repository.
+# The AUTHORS file lists the copyright holders; this file
+# lists people. For example, company employees are listed here
+# but not in AUTHORS, because the company holds the copyright.
+#
+# When adding J Random Contributor's name to this file,
+# either J's name or J's organization's name should be
+# added to the AUTHORS file.
+#
+# Names should be added to this file like so, in the 
+# chronological order of contribution:
+#
+#     N: <name>
+#     E: <email>
+#     W: <website>
+#     D: <description of role>
+
+N: Ek Type
+E: info@ektype.in
+W: http://ektype.in
+D: A collective of type designers based in Mumbai focused on designing contemporary Indian typefaces
+
+N: Girish Dalvi
+E: girish.dalvi@gmail.com
+W: 
+D: Original Type Design and Font Engineering, Devanagari glyph-set development, Devanagari Font Testing Scripts
+
+N: Yashodeep Gholap
+E: yashodeep.gholap@gmail.com
+W: http://www.yashodeepgholap.com
+D: Co-Type Designer and Font Engineer 
+
+N: Noopur Datye
+E: noopur.datye@ektype.in
+W: http://ektype.in
+D: Type Design consultation, Devanagari Numerals, Kerning 
+
+N: Sarang Kulkarni
+E: sarang.kulkarni@ektype.in
+W: http://ektype.in
+D: Type Design consultation, Project Management, Legal & Finance
+
+N: Maithili Shingre
+E: maithili@whitecrow.in
+D: Kerning, OpenType Testing, Platform Testing and Application Testing
+
+N: Vinay Saynekar
+D: Suggestions and feedback during the font design process
+
+N: Santosh Kshirsagar
+D: Suggestions and feedback during the font design process
+
+N: Shubhanand Jog
+D: Suggestions and feedback during the font design process
+
+N: Yogesh Jahargirdar
+D: Suggestions and feedback during the font design process
+
+N: Pradnya Naik
+D: Suggestions and feedback during the font design process
+
+N: Snehal Patil
+D: Suggestions and feedback during the font design process
+
+N: Pallavi Karambelkar
+D: Suggestions and feedback during the font design process
+
+N: Omkar Shende
+D: Suggestions and feedback during the font design process
+
+N: Industrial Design Centre, IIT Bombay
+D: Support and encouragement
+
+N: Sir J J Institute of Applied Art
+D: Support and encouragement
