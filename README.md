@@ -12,6 +12,6 @@ List of fonts
 
 These fonts may or may not be included in the repository
 
-###Sans Serif
+### Sans Serif
 
 - **[Gidole, by Andreas Larsen](https://github.com/gidole/sans)** — a geometric sans, along the lines of DIN. Currently in progress but available for download and usage. OFL license.
